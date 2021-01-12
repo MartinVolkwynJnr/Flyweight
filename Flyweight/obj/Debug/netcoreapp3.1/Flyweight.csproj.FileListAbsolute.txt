@@ -1,0 +1,11 @@
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.exe
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.deps.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.dev.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.dll
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.pdb
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csprojAssemblyReference.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfoInputs.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfo.cs
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.dll
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.pdb
